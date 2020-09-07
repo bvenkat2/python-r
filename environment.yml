@@ -1,0 +1,7 @@
+name: python-r
+channels:
+  - r
+  - defaults
+dependencies:
+  - python
+  - rpy2
